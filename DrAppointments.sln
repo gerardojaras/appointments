@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrAppointments.Web", "DrAppointments.Web\DrAppointments.Web.csproj", "{4BC74C52-FEB8-4975-B3DC-AE56BC799CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrAppointments.Core", "DrAppointments.Core\DrAppointments.Core.csproj", "{9D754DBF-02B2-4C37-BA60-76BB497242D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrAppointments.Infrastructure", "DrAppointments.Infrastructure\DrAppointments.Infrastructure.csproj", "{2167EEB5-EBA3-445C-91BD-8C7F692B919C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC74C52-FEB8-4975-B3DC-AE56BC799CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC74C52-FEB8-4975-B3DC-AE56BC799CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC74C52-FEB8-4975-B3DC-AE56BC799CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC74C52-FEB8-4975-B3DC-AE56BC799CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D754DBF-02B2-4C37-BA60-76BB497242D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D754DBF-02B2-4C37-BA60-76BB497242D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D754DBF-02B2-4C37-BA60-76BB497242D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D754DBF-02B2-4C37-BA60-76BB497242D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2167EEB5-EBA3-445C-91BD-8C7F692B919C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2167EEB5-EBA3-445C-91BD-8C7F692B919C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2167EEB5-EBA3-445C-91BD-8C7F692B919C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2167EEB5-EBA3-445C-91BD-8C7F692B919C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
